@@ -2,7 +2,7 @@
 
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: process.env.SITE_URL || 'https://angeloanan.xyz',
+  siteUrl: process.env.SITE_URL || 'https://fursona.zip',
 
   generateRobotsTxt: true,
   sitemapSize: 7000,
